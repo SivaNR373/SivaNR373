@@ -1,332 +1,262 @@
-# 👋 Hi, I'm Adaka Siva Nagaraju
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              ADAKA SIVA NAGARAJU | DATA ENGINEER               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Data+Engineer;Azure+%7C+Microsoft+Fabric+%7C+Databricks;PySpark+%7C+SQL+%7C+Cloud+Data+Engineering;Batch+%7C+Streaming+%7C+Lakehouse+Architecture;Always+Learning+%7C+Always+Building" />
+<!-- ───────────────────── HERO ───────────────────── -->
 
-### Data Engineer | Azure | Microsoft Fabric | Databricks | PySpark | SQL
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090A1A,35:102A43,70:005F73,100:00B4D8&text=ADAKA%20SIVA%20NAGARAJU&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=FORGING%20THE%20DATA%20FRONTIER&descSize=16&descAlignY=58&animation=fadeIn" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivan373/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SivaNR373)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivanagaraju373@gmail.com)
+<br/>
 
-![](https://komarev.com/ghpvc/?username=SivaNR373&style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&height=55&lines=DATA+ENGINEER;BUILDING+RELIABLE+DATA+SYSTEMS;AZURE+%7C+DATABRICKS+%7C+PYSPARK;BATCH+%7C+STREAMING+%7C+LAKEHOUSE" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/sivan373/">
+<img src="https://img.shields.io/badge/LINKEDIN-00A8E8?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/SivaNR373">
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:sivanagaraju373@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://drive.google.com/file/d/1T6wQZvJDVZGPUn4UOSrXTQgn2Rpmma9t/view?usp=drivesdk">
+<img src="https://img.shields.io/badge/RESUME-00C896?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=SivaNR373&style=flat-square&color=00B4D8&label=PROFILE+VISITORS" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## `01` / ENGINEER PROFILE
 
-I'm a **Data Engineer** focused on building reliable and scalable data pipelines using **Microsoft Azure, Microsoft Fabric, Databricks, PySpark, SQL, and Delta Lake**.
+```yaml
+name: Adaka Siva Nagaraju
+role: Data Engineer
+organization: Cognizant Technology Solutions
+location: Chennai, India
 
-I enjoy working across the complete data engineering lifecycle — from **data ingestion and transformation to dimensional modeling, orchestration, data quality, and analytics-ready data platforms**.
+engineering:
+  - Data Pipeline Development
+  - Lakehouse Architecture
+  - Batch Processing
+  - Streaming Data Engineering
+  - Data Quality & Reliability
 
-Currently, I'm expanding from **batch data engineering into real-time and streaming data engineering**, with a focus on building production-oriented lakehouse and streaming architectures.
+core_stack:
+  - Python
+  - SQL
+  - PySpark
+  - Databricks
+  - Delta Lake
+  - Microsoft Azure
+```
 
-- 🏗️ Building end-to-end Data Engineering projects
-- ☁️ Working with Azure and Microsoft Fabric data services
-- ⚡ Building PySpark and Databricks pipelines
-- 🧱 Designing Lakehouse and Medallion architectures
-- 🔄 Working with batch and streaming data pipelines
-- 📊 Applying Data Warehousing and dimensional modeling concepts
-- 🧪 Practicing data quality, validation, and pipeline reliability
-- 🚀 Continuously learning modern Data Engineering technologies
+I build data engineering solutions focused on **reliable ingestion, scalable transformations, data quality, and analytics-ready data platforms**.
+
+My engineering interests span the complete data lifecycle — from source ingestion and transformation to dimensional modeling, orchestration, and lakehouse architecture.
+
+Currently expanding from batch processing into **real-time and streaming data engineering**.
+
+- 🏗️ Building end-to-end data engineering solutions
+- ⚡ Developing batch and streaming data pipelines
+- 🧱 Implementing Lakehouse and Medallion architectures
+- 🔄 Working with ETL/ELT and incremental data processing
+- 🧪 Applying data validation and pipeline reliability practices
+- ☁️ Exploring modern cloud data engineering architectures
 
 ---
 
-# 🎯 Current Focus
+## `02` / ENGINEERING STACK
 
-### ⚡ Streaming Data Engineering
+<div align="center">
 
-Currently working on a **real-time / streaming Data Engineering project** to expand beyond batch processing.
+### Languages & Query Engines
 
-Focus areas include:
+<img src="https://skillicons.dev/icons?i=python,java,linux&theme=dark" />
 
-- Apache Spark Structured Streaming
-- Kafka
-- Real-time ingestion
-- Streaming transformations
-- Event-driven architectures
-- Delta Lake
-- Databricks
-- Streaming data quality
+<br/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+
+<br/><br/>
+
+### Data Engineering & Lakehouse
+
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=delta&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity%20Catalog-4B32C3?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+
+<br/><br/>
+
+### Cloud & Data Platforms
+
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+<br/><br/>
+
+### Engineering Tools & Analytics
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</div>
+
+---
+<!-- ═══════════ CERTIFICATIONS ═══════════ -->
+
+## 🏅 Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://credentials.databricks.com/59a6211b-ad7a-47c2-87ef-37601688f24f#acc.CmG8lW0Q">
+<img alt="Databricks Certified Data Engineer Associate" src="https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+</a>
+<br/>
+<sub><a href="https://credentials.databricks.com/59a6211b-ad7a-47c2-87ef-37601688f24f#acc.CmG8lW0Q">Verify credential ↗</a></sub>
+</td>
+<td align="center" width="50%">
+<a href="https://learn.microsoft.com/en-us/users/adakasivanagaraju-2669/credentials/d31053bc664ac2de">
+<img alt="Microsoft Azure Data Fundamentals" src="https://img.shields.io/badge/Microsoft-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</a>
+<br/>
+<sub><a href="https://learn.microsoft.com/en-us/users/adakasivanagaraju-2669/credentials/d31053bc664ac2de">Verify credential ↗</a></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://learn.microsoft.com/en-us/users/adakasivanagaraju-2669/credentials/edd18a32ec43608f">
+<img alt="GitHub Copilot Certified" src="https://img.shields.io/badge/GitHub-Copilot%20Certified-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+</a>
+<br/>
+<sub><a href="https://learn.microsoft.com/en-us/users/adakasivanagaraju-2669/credentials/edd18a32ec43608f">Verify credential ↗</a></sub>
+</td>
+<td align="center" width="50%">
+<a href="https://www.credly.com/badges/edf9f431-9b61-4a40-a6ad-2bb6a2e07961/public_url">
+<img alt="Alteryx Designer Core Certified" src="https://img.shields.io/badge/Alteryx-Designer%20Core%20Certified-0078C0?style=for-the-badge&logo=alteryx&logoColor=white"/>
+</a>
+<br/>
+<sub><a href="https://www.credly.com/badges/edf9f431-9b61-4a40-a6ad-2bb6a2e07961/public_url">Verify credential ↗</a></sub>
+</td>
+</tr>
+</table>
+
+<img alt="4 verified credentials" src="https://img.shields.io/badge/4%20credentials-all%20publicly%20verifiable-00C896?style=flat-square&logo=checkmarx&logoColor=white"/>
+
+</div>
+
+## `04` / CURRENT ENGINEERING FOCUS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-00C896?style=for-the-badge" />
+
+### ⚡ Real-Time Data Engineering
+
+</div>
+
+Currently developing a hands-on streaming pipeline to expand my experience beyond batch data processing.
+
+```text
+        ┌───────────────────┐
+        │    EVENT SOURCES  │
+        └─────────┬─────────┘
+                  │
+                  ▼
+        ┌───────────────────┐
+        │   APACHE KAFKA    │
+        │  Event Streaming  │
+        └─────────┬─────────┘
+                  │
+                  ▼
+        ┌───────────────────┐
+        │ SPARK STRUCTURED  │
+        │    STREAMING      │
+        └─────────┬─────────┘
+                  │
+                  ▼
+        ┌───────────────────┐
+        │    DELTA LAKE     │
+        │  Reliable Storage │
+        └─────────┬─────────┘
+                  │
+                  ▼
+        ┌───────────────────┐
+        │ ANALYTICS LAYER   │
+        └───────────────────┘
+```
+
+**Engineering focus**
+
+- Kafka-based event ingestion
+- Spark Structured Streaming
 - Incremental processing
-
-### ☁️ Cloud Data Engineering
-
-Continuing to build hands-on experience with:
-
-- Microsoft Azure
-- Azure Data Factory
-- Azure Data Lake Storage Gen2
-- Microsoft Fabric
-- OneLake
-- Databricks
-- Delta Lake
-- Azure Synapse Analytics
+- Streaming transformations
+- Data quality and reliability
+- Delta Lake integration
 
 ---
 
-# 🏆 Certifications
-
-### Completed
-
-✅ **Microsoft Certified: Azure Data Fundamentals (DP-900)**
-
-### Preparing For
-
-🎯 **Microsoft Certified: Fabric Data Engineer Associate (DP-700)**
-
-🎯 **Databricks Certified Data Engineer Associate**
-
----
-
-# 🚀 Featured Projects
-
-## 🚲 Bike Data Lakehouse — Completed
-
-**Databricks | PySpark | Delta Lake | Unity Catalog | Databricks Jobs**
-
-An end-to-end **batch Data Lakehouse pipeline** implementing a complete **Bronze → Silver → Gold Medallion Architecture**.
-
-### Highlights
-
-- CRM and ERP data ingestion
-- Delta Lake tables
-- PySpark transformations
-- Data cleansing and standardization
-- Cross-system data integration
-- Data-quality validation
-- Dimensional modeling
-- Customer and product dimensions
-- Sales fact table
-- Silver orchestration
-- Gold orchestration
-- Databricks Job orchestration
-- GitHub version control
-
-### Pipeline
-
-```text
-CRM / ERP Sources
-       ↓
-Bronze
-       ↓
-Silver
-       ↓
-Gold
-       ↓
-Databricks Job
-```
-
-### Gold Model
-
-```text
-dim_customers
-       │
-       ├──────────┐
-       │          │
-       ▼          ▼
-                 fact_sales
-       ▲          ▲
-       │          │
-       └──────────┘
-       dim_products
-```
-
-📌 **Status:** ✅ Completed & End-to-End Pipeline Successfully Executed
-
-🔗 **Repository:**  
-[![Bike Data Lakehouse](https://img.shields.io/badge/GitHub-Bike%20Data%20Lakehouse-181717?style=for-the-badge&logo=github)](https://github.com/SivaNR373/bike-data-lakehouse)
-
----
-
-## ⚡ Real-Time Streaming Data Pipeline — In Progress
-
-**Spark Structured Streaming | Kafka | Databricks | Delta Lake**
-
-Currently building a hands-on **streaming Data Engineering project** focused on real-time ingestion and processing.
-
-### Focus
-
-```text
-Event Sources
-     ↓
-Kafka
-     ↓
-Spark Structured Streaming
-     ↓
-Delta Lake
-     ↓
-Streaming Transformations
-     ↓
-Analytics Layer
-```
-
-📌 **Status:** 🚧 In Progress
-
-The project is focused on understanding the differences between **batch and streaming architectures** and implementing reliable real-time data processing patterns.
-
----
-
-# 🏗️ Data Engineering Architecture
-
-My current learning path spans both traditional batch pipelines and modern streaming architectures.
-
-### Batch
-
-```text
-Source Systems
-      ↓
-ADF / Databricks
-      ↓
-ADLS / Delta Lake
-      ↓
-PySpark Transformations
-      ↓
-Gold / Warehouse
-      ↓
-Power BI
-```
-
-### Streaming
-
-```text
-Event Sources
-      ↓
-Kafka / Event Streaming
-      ↓
-Spark Structured Streaming
-      ↓
-Delta Lake
-      ↓
-Lakehouse
-      ↓
-Analytics
-```
-
----
-
-# 🛠️ Technology Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-### Data Engineering
-
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-EB6E20?style=for-the-badge&logo=databricks&logoColor=white)
-
-### Microsoft Azure
-
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge)
-![ADLS Gen2](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge)
-![Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge)
-
-### Microsoft Fabric
-
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6C3483?style=for-the-badge)
-![OneLake](https://img.shields.io/badge/OneLake-6C3483?style=for-the-badge)
-
-### Analytics
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Engineering Practices
-
-- ETL / ELT
-- Data Warehousing
-- Dimensional Modeling
-- Medallion Architecture
-- Data Quality
-- Pipeline Orchestration
-- Batch Processing
-- Streaming Processing
-- Git / GitHub
-- CI/CD
-
----
-
-# 📊 GitHub Stats
+## `05` / GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SivaNR373&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=SivaNR373&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SivaNR373&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=SivaNR373&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivaNR373&layout=compact&theme=tokyonight&hide_border=true" />
+<br/><br/>
+
+<img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SivaNR373&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-# 🧭 Data Engineering Roadmap
-
-```text
-                    DATA ENGINEERING
-                           │
-            ┌──────────────┴──────────────┐
-            │                             │
-          BATCH                       STREAMING
-            │                             │
-            ▼                             ▼
-      Azure / ADF                     Kafka
-      ADLS Gen2                       Spark Streaming
-      Databricks                      Delta Lake
-      PySpark                         Databricks
-            │                             │
-            └──────────────┬──────────────┘
-                           ▼
-                     Delta / Lakehouse
-                           │
-                           ▼
-                  Microsoft Fabric
-                           │
-                           ▼
-                       Power BI
-```
-
----
-
-# 📚 Currently Learning
-
-- ⚡ Real-Time Data Engineering
-- 📨 Kafka & Event-Driven Architecture
-- 🔥 Spark Structured Streaming
-- 🧱 Advanced Databricks
-- ☁️ Microsoft Fabric
-- 🔄 Incremental Data Processing
-- 🧪 Data Quality & Pipeline Reliability
-- 🚀 Production Data Engineering Practices
-
----
-
-# 🤝 Let's Connect
+## `06` / CONNECT
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sivan373-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivan373/)
+### Let's build something meaningful.
 
-[![GitHub](https://img.shields.io/badge/GitHub-SivaNR373-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SivaNR373)
+I'm interested in connecting with fellow data engineers, learning from the engineering community, and contributing to impactful data systems.
 
-[![Email](https://img.shields.io/badge/Email-sivanagaraju373%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivanagaraju373@gmail.com)
+<a href="https://www.linkedin.com/in/sivan373/">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-</div>
+<a href="mailto:sivanagaraju373@gmail.com">
+<img src="https://img.shields.io/badge/LET'S%20TALK%20DATA-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
+<br/><br/>
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00B4D8,50:005F73,100:090A1A" />
 
-> **Building reliable data systems, one pipeline at a time.**
+### ⚒️ FORGING THE DATA FRONTIER
 
-### ⭐ Always Learning • Always Building • Always Improving
+**Always Learning · Always Building · Always Improving**
 
 </div>
